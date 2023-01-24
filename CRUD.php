@@ -1,5 +1,15 @@
 <?php
 
+/**
+ * CRUD
+ * © 2023 RAMAZAN ÇETİNKAYA, All rights reserved.
+ *
+ * @author [ramazancetinkaya]
+ * @date [24.01.2023]
+ *
+ * Please note, this class is only a demonstration and should be used with caution, you should test it before using on a production environment.
+ */
+
 // This is a simple CRUD class that demonstrates how to use PHP to interact with a MySQL database.
 
 class CRUD {
