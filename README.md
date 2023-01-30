@@ -10,7 +10,7 @@ $crud->readAll("table");
 $crud->update("table", "field1 = :newvalue1, field2 = :newvalue2", "id = :id");
 $crud->delete("table", 3);
 ```
-### Author
+### Authors
 
 **Ramazan Çetinkaya**
 
